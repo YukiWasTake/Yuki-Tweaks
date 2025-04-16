@@ -1,4 +1,4 @@
-## Yuki-Tweaks
+# **Yuki-Tweaks**
 
 # About
 This is a batch script that I made with a collection of my recommended tweaks. Most of the included tweaks are featured within [Yuki OS](https://github.com/YukiWasTake/YukiOS), but I added a few additional ones as well.
