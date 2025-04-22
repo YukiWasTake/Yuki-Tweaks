@@ -336,7 +336,6 @@ call :Tweaks
 echo Disabling Useless Services
 for %%a in (
   AxInstSV
-  AppXSvc
   tzautoupdates
   BcastDVRUserService_389fd
   DoSvc
